@@ -1,0 +1,4 @@
+[
+  { "id": "wood",  "base_price": 1.0 },
+  { "id": "plank", "base_price": 4.0 }
+]

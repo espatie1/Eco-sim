@@ -1,0 +1,6 @@
+{
+  "id": "sawing_plank",
+  "inputs":  [ { "id": "wood",  "qty": 1 } ],
+  "outputs": [ { "id": "plank", "qty": 4 } ],
+  "hours": 8
+}
